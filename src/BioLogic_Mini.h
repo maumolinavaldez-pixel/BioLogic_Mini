@@ -1,8 +1,8 @@
 #ifndef BIOLOGIC_H
 #define BIOLOGIC_H
 
-#include "Arduino.h"
-#include "WiFi.h"
+#include <Arduino.h>
+#include <WiFi.h>
 
 // Pines físicos asignados localmente en el ESP32-C3
 #define r1_PIN  4
