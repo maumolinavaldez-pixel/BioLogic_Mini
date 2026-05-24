@@ -1,4 +1,4 @@
-#include "BioLogic.h"
+#include "BioLogic_Mini.h"
 #include <Arduino.h>
 #include <WiFi.h>
 
