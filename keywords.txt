@@ -1,0 +1,35 @@
+######################################################
+# BioLogic Library - Keywords                        #
+# Diseñada por @teoriademau para placa BioLogic Mini #
+# Versión 1.0.0                                      #
+######################################################
+
+# Clase principal (KEYWORD1)
+BioLogic	KEYWORD1
+
+# Metodos de inicialización (KEYWORD2)
+begin	KEYWORD2
+
+# Métodos Arduino compatibles (KEYWORD2)
+pinMode	KEYWORD2
+digitalWrite	KEYWORD2
+digitalRead	KEYWORD2
+
+# Métodos específicos BioLogic (KEYWORD2)
+relayOn	KEYWORD2
+relayOff	KEYWORD2
+relayToggle	KEYWORD2
+relayTimed	KEYWORD2
+
+# Pines virtuales BioLogic (LITERAL1)
+r1	LITERAL1
+r2	LITERAL1
+
+# Modos de pines (LITERAL1)
+INPUT	LITERAL1
+OUTPUT	LITERAL1
+INPUT_PULLUP	LITERAL1
+
+# Valores (LITERAL1)
+LOW	LITERAL1
+HIGH	LITERAL1
