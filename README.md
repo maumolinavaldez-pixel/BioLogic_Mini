@@ -2,7 +2,7 @@
 
 ![Arduino Lint](https://img.shields.io/badge/Arduino-Compatible-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-ESP32--C3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.0.0--Local-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0--Local-blue?style=for-the-badge)
 
 Librería nativa y optimizada para el control directo de las etapas de potencia de la placa **BioLogic** utilizando el microcontrolador **ESP32-C3**.
 
