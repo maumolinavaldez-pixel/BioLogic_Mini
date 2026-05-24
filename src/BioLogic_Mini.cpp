@@ -11,6 +11,7 @@ void BioLogic::begin() {
     ::digitalWrite(r1_PIN, LOW);
     ::pinMode(r2_PIN, OUTPUT);
     ::digitalWrite(r2_PIN, LOW);
+    WiFi.setTxPower(WIFI_POWER_13dBm);
     _initialized = true;
 }
 
